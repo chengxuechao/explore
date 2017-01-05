@@ -16,7 +16,7 @@
   累经验。
 
 # 开发工具
-  unity版本号4.3.4,版本最好使用该版本进行美术资源制作和项目开发。
+  unity版本号5.3.4,版本最好使用该版本进行美术资源制作和项目开发。
   下载地址：
 ### 百度网盘：链接：http://pan.baidu.com/s/1o7VDOFK 密码：vv9p
 ### 官网地址：https://unity3d.com/cn/get-unity/download/archive
